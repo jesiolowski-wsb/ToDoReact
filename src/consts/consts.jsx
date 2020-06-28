@@ -1,0 +1,3 @@
+const TODO_ANIMATION = { FLIP_DURATION: 300 };
+
+export default TODO_ANIMATION;
